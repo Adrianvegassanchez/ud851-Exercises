@@ -105,7 +105,7 @@ public class AudioInputReader {
             mPlayer.start();
         }
 
-        mVisualizer.setEnabled(true);
-        mVisualizerView.restart();
+      mVisualizer.setEnabled(true);
+      mVisualizerView.restart();
     }
 }
